@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= L
+game= Lhelp
+stayinchannel=true
+songinstatus=true 
+token=NTQwOTQzNTMxODU1MDUyODMw.DzYQpQ.B3lwEcXytpckOpsgWggoX0WEAWA
+owner=509026180020699195
